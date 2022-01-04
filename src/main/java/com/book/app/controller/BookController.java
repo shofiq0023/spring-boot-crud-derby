@@ -12,7 +12,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.book.app.model.BookModel;
 import com.book.app.service.BookService;
-import com.fasterxml.jackson.annotation.JacksonInject.Value;
 
 @RestController
 public class BookController {
